@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896219871119",
+    "project_id": "computacion-movil-55117",
+    "storage_bucket": "computacion-movil-55117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896219871119:android:0c47b5ded12cc52a6ebdfa",
+        "android_client_info": {
+          "package_name": "com.migueltapia.crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzcnR_bUkhMIWQNBJ9bcSreprdvgSGYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
